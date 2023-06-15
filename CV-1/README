@@ -1,1 +1,21 @@
 ## **Computer Vision - 1**
+
+# Computer Vision İşlemleri
+
+Bu proje, temel Computer Vision işlemlerini gerçekleştirmek için Python kullanarak oluşturulmuştur. Aşağıda, projede kullanılan işlemleri ve ilgili methodları bulabilirsiniz.
+
+## Gereksinimler
+
+- Python 3.x
+- OpenCV kütüphanesi
+
+## Görsel İçeri Aktarma
+
+Görüntü işleme işlemlerine başlamadan önce, bir görüntüyü yüklemeniz gerekebilir. İşte bir görüntüyü içeri aktarma işlemi:
+
+```python
+import cv2
+
+# Görüntüyü yükleme
+image = cv2.imread('image.jpg')
+
