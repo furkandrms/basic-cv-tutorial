@@ -1,6 +1,4 @@
-﻿Tabii, aşağıda görsel içeri aktarma, video içeri aktarma, kamera açma ve video kaydı yapma, yeniden boyutlandırma ve kırpma işlemlerini anlatan bir README sayfası örneği verilmiştir:
-
-```markdown
+﻿```markdown
 # Computer Vision İşlemleri
 
 Bu proje, temel Computer Vision işlemlerini gerçekleştirmek için Python kullanarak oluşturulmuştur. Aşağıda, projede kullanılan işlemleri ve ilgili methodları bulabilirsiniz.
