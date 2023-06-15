@@ -1,10 +1,9 @@
-
-## Görsel İçeri Aktarma
-
-Görüntü işleme işlemlerine başlamadan önce, bir görüntüyü yüklemeniz gerekebilir. İşte bir görüntüyü içeri aktarma işlemi:
+Kod Bloğu (Dil Desteği İle)
+Python Örneği:
 
 ```python
-import cv2
+from datetime import date
 
-# Görüntüyü yükleme
-image = cv2.imread('image.jpg')
+print(f'Bugün: {date.today()}')
+
+```
