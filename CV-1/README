@@ -3,7 +3,7 @@
 # Computer Vision İşlemleri
 
 Bu proje, temel Computer Vision işlemlerini gerçekleştirmek için Python kullanarak oluşturulmuştur. Aşağıda, projede kullanılan işlemleri ve ilgili methodları bulabilirsiniz.
-
+'''
 ## Gereksinimler
 
 - Python 3.x
@@ -19,3 +19,4 @@ import cv2
 # Görüntüyü yükleme
 image = cv2.imread('image.jpg')
 
+'''
