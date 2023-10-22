@@ -1,5 +1,4 @@
 ﻿
-```python
 # Basic Computer Vision Tutorial
 
 Bu repo, temel görüntü işleme (computer vision) konularını anlatan bir dizi örnek proje içermektedir. Her proje, farklı bir görüş problemine odaklanır ve çeşitli görüntü işleme tekniklerini uygulamanızı sağlar. Aşağıda, bu repo hakkında bazı bilgilere ve proje listesine yer verilmiştir.
