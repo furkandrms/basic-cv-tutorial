@@ -1,1 +1,0 @@
-frame_no,x,y,w,h,center_x,center_y
